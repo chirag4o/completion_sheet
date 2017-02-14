@@ -1,4 +1,3 @@
-
 ---
 title: Assignment 1 Completion Sheet
 permalink: assignment1.html
